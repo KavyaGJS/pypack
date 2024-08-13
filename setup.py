@@ -9,4 +9,6 @@ setup(
     author_email='kavyamujk@gmail.com',  
     license='MIT',  
     packages=['nlpnew'],
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown'
 )
