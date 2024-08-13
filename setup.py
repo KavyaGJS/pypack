@@ -7,8 +7,7 @@ setup(
     url='https://github.com/KavyaGJS/pypack',  
     author='KavyaGJS', 
     author_email='kavyamujk@gmail.com',  
-    license='MIT',  
-    packages=['nlpnew'],
+    packages=find_packages(),
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown'
 )
