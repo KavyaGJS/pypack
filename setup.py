@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='nlpnew',  
-    version='v0.1.0',  
+    version='0.0.1',  
     description='python package',
     url='https://github.com/KavyaGJS/pypack',  
     author='KavyaGJS', 
